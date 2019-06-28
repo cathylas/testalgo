@@ -9,6 +9,7 @@ public class testalgo {
 		int big = biggest(tab);
 
 		System.out.println ("max = "+ big);
+		System.out.println("coucou");
 	}
 
 	private static int biggest(int[] tab) {
